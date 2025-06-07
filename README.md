@@ -4,6 +4,19 @@
 This project demonstrates how to segment job postings and build a personalized recommender system using behavioral and textual data. It uses real-world job listing data and applies unsupervised learning to uncover patterns and personas.
 ----
 
+## 📊 Live Demo (GIF)
+
+![Dashboard Demo](assets/demo.gif)
+
+---
+
+## Demo Video
+
+
+
+---
+
+
 # 🚀 Features
 - ETL Pipeline: Clean and preprocess job data (sector, job type, salary, state).
 
