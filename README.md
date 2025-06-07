@@ -8,7 +8,7 @@ This project demonstrates how to segment job postings and build a personalized r
 
 ## 📊 Live Demo (GIF)
 
-![Dashboard Demo](assets/demo.gif)
+![Dashboard Demo](/Users/sajanshergill/Desktop/customer_segmentation/assets/demo.gif)
 
 ---
 
