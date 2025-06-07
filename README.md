@@ -14,7 +14,7 @@ This project demonstrates how to segment job postings and build a personalized r
 
 ## Demo Video
 
-
+https://drive.google.com/file/d/1JXZy4pR1PGeq5rUcbr8dlGkxpNIBIF8_/view?usp=sharing
 
 ---
 
